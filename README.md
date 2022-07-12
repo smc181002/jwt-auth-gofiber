@@ -46,6 +46,7 @@ cURL is a tool installed in linux distributions by default
 used to fetch data from an endpoint.
 
 **Get JWT token**
+
 we can get the JWT token by POSTing to `/api/auth` endpoint
 
 ```bash
